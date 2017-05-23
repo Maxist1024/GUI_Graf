@@ -1,0 +1,9 @@
+E:\Karol\C#\Grafy\Project\Project\bin\Debug\Project.exe.config
+E:\Karol\C#\Grafy\Project\Project\bin\Debug\Project.exe
+E:\Karol\C#\Grafy\Project\Project\bin\Debug\Project.pdb
+E:\Karol\C#\Grafy\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Karol\C#\Grafy\Project\Project\obj\Debug\Project.Form1.resources
+E:\Karol\C#\Grafy\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Karol\C#\Grafy\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+E:\Karol\C#\Grafy\Project\Project\obj\Debug\Project.exe
+E:\Karol\C#\Grafy\Project\Project\obj\Debug\Project.pdb
